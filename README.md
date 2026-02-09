@@ -22,10 +22,12 @@ Ensure you have the Java Development Kit (JDK) installed (version 17 or later).
    ```bash
    cd path/to/project_root
 
-2. **Compile the program*** 
+2. **Compile the program**
+   ```bash 
    javac assignment_1/Generator.java
 
 3. **Execute the program**
+   ```bash
    java assignment_1.Generator
 
 
